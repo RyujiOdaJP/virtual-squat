@@ -67,7 +67,7 @@
     "@textlint/textlint-plugin-markdown": "5.1.12",
     "@typescript-eslint/eslint-plugin": "3.5.0",
     "@typescript-eslint/parser": "3.5.0",
-    "@vue/cli": "^4.4.6",
+    "@vue/cli": "4.4.6",
     "add-text-to-markdown": "2.0.0",
     "commitizen": "4.1.2",
     "cz-emoji": "1.2.1",
