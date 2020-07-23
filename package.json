@@ -71,7 +71,7 @@
     "add-text-to-markdown": "2.0.0",
     "commitizen": "4.1.2",
     "cz-emoji": "1.2.1",
-    "eslint": "7.4.0",
+    "eslint": "7.5.0",
     "eslint-config-prettier": "6.11.0",
     "eslint-plugin-prettier": "3.1.4",
     "generator-express-no-stress-typescript": "9.1.0",
